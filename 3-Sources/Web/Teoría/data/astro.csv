@@ -1,0 +1,8 @@
+,latitude,longitude,generationtime_ms,utc_offset_seconds,timezone,timezone_abbreviation,elevation,current_weather_units,current_weather
+time,42.84,-2.67,0.17058849334716797,0,GMT,GMT,534.0,iso8601,2026-11-06T12:00
+interval,42.84,-2.67,0.17058849334716797,0,GMT,GMT,534.0,seconds,900
+temperature,42.84,-2.67,0.17058849334716797,0,GMT,GMT,534.0,°C,12.6
+windspeed,42.84,-2.67,0.17058849334716797,0,GMT,GMT,534.0,km/h,3.3
+winddirection,42.84,-2.67,0.17058849334716797,0,GMT,GMT,534.0,°,264
+is_day,42.84,-2.67,0.17058849334716797,0,GMT,GMT,534.0,,1
+weathercode,42.84,-2.67,0.17058849334716797,0,GMT,GMT,534.0,wmo code,0
